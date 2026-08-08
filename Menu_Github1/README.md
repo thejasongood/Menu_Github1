@@ -29,4 +29,3 @@
 11. Al seleccionar la opción **Salir**, se mostrará la proyección del stock durante 5 días.
 
 12. Si se ingresa una opción que no existe en el menú, el programa mostrará un mensaje de error.
- 1. 
